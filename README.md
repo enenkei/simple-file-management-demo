@@ -36,6 +36,9 @@ bun dev
 - [unDraw](https://undraw.co/)
 - [icon-icons](https://icon-icons.com/)
 
+## Screenshot
+![folders_view](https://firebasestorage.googleapis.com/v0/b/notebook-demo-5cfa7.appspot.com/o/screenshot%2Ffile-management-app-2.png?alt=media&token=33aa432e-3be8-4598-9077-d932bf6bf6ea)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
