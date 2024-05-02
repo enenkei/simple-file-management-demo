@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a simple File Management App project using [Next.js](https://nextjs.org/) as a base project and Clerk framework as an authentication service
 
 ## Getting Started
 
@@ -14,11 +14,29 @@ pnpm dev
 bun dev
 ```
 
+## Functionalities
+- User can create folders and pick colors for the folder
+- User can upload one more multiple files to a selected folder
+- User can edit/delete folders
+- User can delete files
+
+## Technologies
+- Nextjs 14/Tailwind
+- Clerk
+- Typescript
+- Shadcn UI
+- Firebase storage
+- Prisma
+- Tanstack React Query
+- moment
+
+## Assets downloaded from other websites
+- [lucide](https://lucide.dev/)
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [unDraw](https://undraw.co/)
+- [icon-icons](https://icon-icons.com/)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
