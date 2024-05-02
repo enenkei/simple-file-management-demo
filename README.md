@@ -38,6 +38,10 @@ bun dev
 
 ## Screenshot
 ![folders_view](https://firebasestorage.googleapis.com/v0/b/notebook-demo-5cfa7.appspot.com/o/screenshot%2Ffile-management-app-2.png?alt=media&token=33aa432e-3be8-4598-9077-d932bf6bf6ea)
+![folders_add](https://firebasestorage.googleapis.com/v0/b/notebook-demo-5cfa7.appspot.com/o/screenshot%2Ffile-management-app-1.png?alt=media&token=53cac589-71f9-4354-b7d4-fe9e4c9aa8c9)
+![files_upload](https://firebasestorage.googleapis.com/v0/b/notebook-demo-5cfa7.appspot.com/o/screenshot%2Ffile-management-app-4.png?alt=media&token=e2ef04ce-b3e1-4fa0-ae7c-ef8023f227e7)
+![files_view_grid](https://firebasestorage.googleapis.com/v0/b/notebook-demo-5cfa7.appspot.com/o/screenshot%2Ffile-management-app-5.png?alt=media&token=ec2d6e9b-d0a1-41bc-a527-26bbb8e54855)
+![files_view_table](https://firebasestorage.googleapis.com/v0/b/notebook-demo-5cfa7.appspot.com/o/screenshot%2Ffile-management-app-6.png?alt=media&token=8c64b598-8f6f-42c4-a985-2b5c8dbc1800)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
